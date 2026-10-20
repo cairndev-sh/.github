@@ -6,9 +6,8 @@ Fine-tune, evaluate, promote, and serve models as single governed commands —
 cost-capped before the GPU spins up, policy-gated, paused for human approval
 where it matters, and audited end to end.
 
-**Self-hosted by default:** your keys, your GPUs, your logs, nothing leaving
-your perimeter. A **managed cloud** is in private beta for teams who would
-rather not run it themselves — the engine is the same either way.
+**Self-hosted:** your keys, your GPUs, your logs, nothing leaving your
+perimeter.
 
 ### Why governed?
 
@@ -26,4 +25,4 @@ loud, gated, audited stop, on the same command you already run.
 | [cairn](https://github.com/cairndev-sh/cairn) | The control plane — source opens at release, Apache 2.0 |
 
 cairn is in **early access**. [Join the waitlist](https://cairndev.sh) for
-access and release updates, or to ask about the managed private beta.
+access and release updates.
