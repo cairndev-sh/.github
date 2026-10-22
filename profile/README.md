@@ -21,8 +21,9 @@ loud, gated, audited stop, on the same command you already run.
 | | |
 |---|---|
 | [cairndev.sh](https://cairndev.sh) | Overview and early-access waitlist |
+| [demo.cairndev.sh](https://demo.cairndev.sh) | Live demo: sign up with Google or GitHub and try it |
 | [docs.cairndev.sh](https://docs.cairndev.sh) | Architecture, CLI reference, governance model |
-| [cairn](https://github.com/cairndev-sh/cairn) | The control plane — source opens at release, Apache 2.0 |
+| [cairn](https://github.com/cairndev-sh/cairn) | The control plane: source, issues and releases, Apache 2.0 |
 
 cairn is in **early access**. [Join the waitlist](https://cairndev.sh) for
 access and release updates.
