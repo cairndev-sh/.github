@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cairndev-sh/.github/main/profile/logo-dark.svg">
+  <img src="https://raw.githubusercontent.com/cairndev-sh/.github/main/profile/logo.svg" alt="cairn" width="56">
+</picture>
+
 ## cairn
 
 **An open-source control plane for governed ModelOps.**
