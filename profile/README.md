@@ -25,10 +25,11 @@ loud, gated, audited stop, on the same command you already run.
 
 | | |
 |---|---|
-| [cairndev.sh](https://cairndev.sh) | Overview and early-access waitlist |
-| [demo.cairndev.sh](https://demo.cairndev.sh) | Live demo of the console (sign-up opens soon) |
+| [cairndev.sh](https://cairndev.sh) | Overview and use cases |
+| [demo.cairndev.sh](https://demo.cairndev.sh) | Live demo of the console |
 | [docs.cairndev.sh](https://docs.cairndev.sh) | Architecture, CLI reference, governance model |
 | [cairn](https://github.com/cairndev-sh/cairn) | The control plane: source, issues and releases, Apache 2.0 |
+| [cairn-extensions](https://github.com/cairndev-sh/cairn-extensions) | Operator packs and domain packs, such as dataset preparation and fine-tuning, Apache 2.0 |
 
-cairn is in **early access**. [Join the waitlist](https://cairndev.sh) for
-access and release updates.
+cairn is open source and in early development. Start with the
+[quickstart](https://docs.cairndev.sh/quickstart/) or try the [live demo](https://demo.cairndev.sh).
